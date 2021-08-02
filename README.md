@@ -1,0 +1,2 @@
+# Network-Proxy-Rules
+PLEASE DO NOT STAR THIS REPO
