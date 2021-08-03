@@ -130,5 +130,6 @@ DOMAIN-SUFFIX,khmdb.google.com
 DOMAIN-SUFFIX,khmdb.googleapis.com
 DOMAIN-SUFFIX,mw1.google.com
 
+# Download, Ad
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
