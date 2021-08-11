@@ -1,5 +1,10 @@
-# websites have to be connected with US IP
+# websites to be connected with US IP
 
 DOMAIN-SUFFIX,samsungtvplus.com
 DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,discoveryplus.com
+
+# Reddit
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
