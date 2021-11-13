@@ -35,22 +35,22 @@
  const AREA_TEST_FILM_ID = 80018499
  const DEFAULT_OPTIONS = {
    title: 'Netflix Check',
-   fullContent: 'Netflix Full Support in #REGION_FLAG# #REGION_NAME#',
+   fullContent: 'FULLY SUPPORT IN #REGION_FLAG# #REGION_CODE#',
    fullIcon: '',
    fullIconColor: '',
    fullStyle: 'good',
-   onlyOriginalContent: 'NF ONLY in #REGION_FLAG# #REGION_NAME#',
+   onlyOriginalContent: 'NF ONLY IN #REGION_FLAG# #REGION_CODE#',
    onlyOriginalIcon: '',
    onlyOriginalIconColor: '',
    onlyOriginalStyle: 'info',
-   notAvailableContent: 'No Netflix Support',
+   notAvailableContent: 'UNAVAILABLE',
    notAvailableIcon: '',
    notAvailableIconColor: '',
    notAvailableStyle: 'alert',
-   errorContent: 'Fail to check..',
+   errorContent: 'FAIL TO CHECK...',
    errorIcon: '',
    errorIconColor: '',
-   errorStyle: 'error',
+   errorStyle: 'Error',
  }
  
  let options = getOptions()
