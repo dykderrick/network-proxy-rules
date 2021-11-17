@@ -13,7 +13,7 @@ Another reason to unblock websites is to learn English. That is ironic, right? A
 Please use [**ExpressVPN**](https://www.expressvpn.com).
 
 ## My Own Proxy Provider
-I use [**FastLink**](https://fastlink.ws/auth/register?code=qxCd). This platform offers IPLC (Explanation: https://youtu.be/G1eztAwa6Bw) and AnyCast.
+I use https://sakura.camdvr.org/. This platform promises to provide local contents (local IP addresses). Netflix non-original support.
 
 I also have a [DigitalOcean](https://digitalocean.com) linux server that runs basic v2ray service. This server could provide me with an IPv6 address so that I can visit [BYRBT](https://byr.pt) directly from my home where no IPv6 address is provided by my local ISP.
 
