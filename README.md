@@ -1,5 +1,5 @@
 # Network-Proxy-Rules
-This repo introduces how [@dykderrick](https://github.com/dykderrick) configures the network of his multiple electronic pieces of equipment. It should only be used in mainland China. (**Update**: Now my girlfriend has moved to the United States. So I also built a v2ray server in China to unblock websites in China).
+This repo introduces how [@dykderrick](https://github.com/dykderrick) configures the network of his multiple electronic pieces of equipment. It should only be used in China mainland.
 
 ## Basics
 ### Why do we need to unblock websites in China?
@@ -13,7 +13,7 @@ Another reason to unblock websites is to learn English. That is ironic, right? A
 Please use [**ExpressVPN**](https://www.expressvpn.com).
 
 ## My Proxy Provider
-I use https://sakura.camdvr.org/. This platform promises to provide local content (local IP addresses). Netflix non-original support.
+I use https://teacat.cloud and https://fastlink.ws. The former service provider uses shadowsocks so any UDP connections can be proxied as well as TCPs. The later promises to provide local IP tunnels which means Netflix non-originals are supported.
 
 I also have a [DigitalOcean](https://digitalocean.com) Linux server that runs a basic v2ray service. This server could provide me with an IPv6 address so that I can visit [BYRBT](https://byr.pt) directly from my home, where no IPv6 address is provided by my local ISP.
 
