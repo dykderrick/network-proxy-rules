@@ -1,6 +1,9 @@
 # Network-Proxy-Rules
 This repo introduces how [@dykderrick](https://github.com/dykderrick) configures the network of his multiple electronic pieces of equipment. It should only be used in China mainland.
 
+## Before Getting Started
+**Unfinished** Introduce local area network
+
 ## Basics
 ### Why do we need to unblock websites in China?
 GFW somehow gives the ruler of China a more convenient way to manipulate the thoughts of Chinese netizens. I agree with the idea. Who doesn't want convenience?
