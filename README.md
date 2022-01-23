@@ -1,8 +1,20 @@
 # Network-Proxy-Rules
-This repo introduces how [@dykderrick](https://github.com/dykderrick) configures the network of his multiple electronic pieces of equipment. It should only be used in China mainland.
+This repo introduces how [@dykderrick](https://github.com/dykderrick) configures the network experience in China to meet basic requirements in the digital world. Derrick holds a view that if his network on every single piece of his electronic devices were not configured correctly, he'd rather live even without the Internet.
+
+But most of the configurations here only adapts to the environment in China mainland, though some rules like ad-blocking or streaming service geo-location could also be used elsewhere.
 
 ## Before Getting Started
-**Unfinished** Introduce local area network
+### Internet Speed
+My girlfriend always laughed at me how nerd I am so into testing the speed, latency, jitter of the Internet service every time when I traveled to a new place and connected to a new Internet environment. But honestly what I am really fascinated, in retrospect, was not the speed itself, but what the speed of Internet could bring what level of entertainment (and productivity) to me. For example, when I watch YouTube videos, I always choose the highest video quality the YouTuber provides, because seeing the exact details of a video content makes me feel excited and I just love to see videos in a very sharp frame. However, if the Internet speed cannot satisfy, YouTube (or Netflix, or any other modern streaming platform) will throw me their Adaptive Bitrate (ABR) algorithms. I am not saying those bitrate adaptions are bad, because they kind of provide consumers a more fluent watching experience. But at the end of the day, I just do not want the quality of what I am watching jumps back and forth, ranging from 480p to 2160p or whatever it throws me in the next buffer. I would say it really disturbs me even worse than a low but stable quality, like 720p but continuously stable.
+
+### Local Area Network
+Honestly, most of the techniques I present here come from the experience of my daily Internet usage at home. China was once the world's first country to suffer from covid. Back in 2020, I planned to stay at home for just two weeks of Chinese New Year time, but that plan eventually ends of an extension to nearly seven months. Lockdown policy made me have no other choice but study from home. Attending Tencent Meeting preempts network bandwidth from other devices in the LAN frustrates me and all other family members here. So we contacted China Telecom to upgrade our broadband from 50Mbps to 200Mbps.
+
+But things are not going as promising. Our house uses TP-LINK "square-like" access points for every room. Those APs are connected by a PoE network swtich to China Telecom modem. If our service plan is 50Mbps, then packets could flow smoothly and exchange data in these pipelines. But when we upgraded the service to 200Mbps, we found our Internet speed can only be restricted to 90Mbps maximum. At first I thought it was either China Telecom or the house provider's problem. But it turns out our network switch only supports 100Mbps data exchange. And the TP-LINK access point only supports 450Mbps maximum as their advertising says (but actually only 100Mbps). So we upgraded to a 1000Mbps switch and 1000Mbps APs. And now the service plan has also been upgraded to 500Mbps minimum and 800Mbps maximum. I would say this time we could struggle to survive for ten more years in the house for working from home and never lag behind the world. Maybe.
+
+**Unfinished**.
+
+
 
 ## Basics
 ### Why do we need to unblock websites in China?
