@@ -32,6 +32,8 @@ I use https://teacat.cloud and https://fastlink.ws. The former service provider 
 
 I also have a [DigitalOcean](https://digitalocean.com) Linux server that runs a basic v2ray service. This server could provide me with an IPv6 address so that I can visit [BYRBT](https://byr.pt) directly from my home, where no IPv6 address is provided by my local ISP.
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=50626cb9341a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## Software
 ![Image Not Found](images/Rules-Outline-on-Surge.png)
 **Surge** for Mac and for iOS is highly recommended. Official website https://nssurge.com and Docs at https://manual.nssurge.com/book/understanding-surge/en.
