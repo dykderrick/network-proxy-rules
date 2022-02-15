@@ -30,9 +30,14 @@ Please use [**ExpressVPN**](https://www.expressvpn.com).
 ## My Proxy Provider
 I use https://teacat.cloud and https://fastlink.ws. The former service provider uses shadowsocks so any UDP connections can be proxied as well as TCPs. The later promises to provide local IP tunnels which means Netflix non-originals are supported.
 
-I also have a [DigitalOcean](https://digitalocean.com) Linux server that runs a basic v2ray service. This server could provide me with an IPv6 address so that I can visit [BYRBT](https://byr.pt) directly from my home, where no IPv6 address is provided by my local ISP.
+I had a [DigitalOcean](https://digitalocean.com) Linux server that runs a basic v2ray service. This server could provide me with an IPv6 address so that I can visit [BYRBT](https://byr.pt) directly from my home, where no IPv6 address is provided by my local ISP.
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=50626cb9341a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+(**Modified**) But now I switch to Microsoft Azure, because the free $100 discount for DigitalOcean droplets runs off 😂. Fortunately Azure offers to provide another $100 discount, so I could continue to use it then.
+
+Also, this time I started to deploy Shadowsocks on the server instead of vmess, considering its ability to relay UDP connections.
+
 
 ## Software
 ![Image Not Found](images/Rules-Outline-on-Surge.png)
