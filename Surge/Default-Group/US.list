@@ -13,4 +13,10 @@ DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,ebay.com
 DOMAIN-SUFFIX,census.gov
+
+# Oculus
 DOMAIN-SUFFIX,oculus.com
+
+# edX
+DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,edx-cdn.org
