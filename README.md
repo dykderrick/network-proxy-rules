@@ -28,7 +28,15 @@ Another reason to unblock websites is to learn English. That is ironic, right? A
 Please use [**ExpressVPN**](https://www.expressvpn.com).
 
 ## My Proxy Provider
-I use https://teacat.cloud and https://fastlink.ws. The former service provider uses shadowsocks so any UDP connections can be proxied as well as TCPs. The later promises to provide local IP tunnels which means Netflix non-originals are supported.
+### JiChang 机场
+If you are new to Simplified Chinese Internet community, this word may be very confusing at first, but interesting and unique to be even exist legimately somehow in China mainland if you gradually adapt to cross the GFW. To put it simple, a 机场 is operated by maybe a Chinese guy that has plenty cloud resources. This Chinese seller can be either a computer networking geek or a zero coding experience merchant. At the end of the day though, the owner of a 机场 provides specific services for Chinese netizens to cross the GFW. The services right now are range from vmess, shadowsocks, Trojan, or other point-to-point communication protocols. They do not provide administrative privileges to buyers but they do promising 7/24 operating those resources. Choosing 机场 could be a double-edged sword. You can enjoy zero worries on censorships, operatings or management because they already take all of them. But you do lose the data privacy like your browsing history to those guys.
+
+For me, I have to say in my years of networking configuration experiences, I choose to embrace both 机场 and self-deployed cloud servers. I leave those irrelavant streaming service like Netflix, Disney+ traffic to 机场, and keep personal browsing history to my own cloud servers. I think this selection is a compromise between convenience and privacy.
+
+
+So, for the 机场 selection, I use https://teacat.cloud and https://fastlink.ws. The former service provider uses shadowsocks so any UDP connections can be proxied as well as TCPs. The later promises to provide local IP tunnels which means Netflix non-originals are also supported.
+
+### Cloud
 
 I had a [DigitalOcean](https://digitalocean.com) Linux server that runs a basic v2ray service. This server could provide me with an IPv6 address so that I can visit [BYRBT](https://byr.pt) directly from my home, where no IPv6 address is provided by my local ISP.
 
