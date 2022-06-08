@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,oculus.com
 # edX
 DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,edx-cdn.org
+
+# Nike
+DOMAIN-SUFFIX,nike.com
