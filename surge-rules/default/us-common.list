@@ -25,3 +25,8 @@ DOMAIN-SUFFIX,edx-cdn.org
 
 # Nike
 DOMAIN-SUFFIX,nike.com
+
+# MyUnidays
+DOMAIN-SUFFIX,myunidays.com
+DOMAIN-SUFFIX,myunidays-api.bloomreach.co
+DOMAIN-KEYWORD,myunidays
